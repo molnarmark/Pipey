@@ -2,11 +2,9 @@ local function getPipey()
 	return [[
 		return {
 		__pipes = {},
-		__pipeLength = 0,
 		__pipeCounter = 1,
 		pipe = function(self, fun)
 			table.insert(self.__pipes, fun)
-			self.__pipeLength = self.__pipeLength + 1
 			return self
 		end,
 		
@@ -17,7 +15,6 @@ local function getPipey()
 				return self:process(callee(...))
 			else
 				self.__pipes = {}
-				self.__pipeLength = 0
 				self.__pipeCounter = 0
 			end
 		end,
