@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
 </p>
 
+<p align="center">
 The tiny (554kb) way of using pipes in MTA.
+</p>
 
 ## Getting Started
 
