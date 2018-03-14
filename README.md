@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-The tiny (554kb) way of using pipes in MTA.
+The tiny (460b) way of using pipes in MTA.
 </p>
 
 ## Getting Started
@@ -18,7 +18,7 @@ The tiny (554kb) way of using pipes in MTA.
 Pipey comes as a resource with an exported function that is `getPipey`, which makes a `Pipey` instance.
 
 ### Or
-You can drop `pipey.lua` into your project as it is *554 bytes* in total.
+You can drop `pipey.lua` into your project as it is *460 bytes* in total.
 
 ## Usage
 First, create a `Pipey` instance by using the following:
@@ -40,3 +40,8 @@ You can also take a look at [example.lua](https://github.com/molnarmark/Pipey/bl
 
 ## License
 `Pipey` comes licensed under the [MIT License](https://github.com/molnarmark/Pipey/blob/master/LICENSE).
+
+## Fancy buying me a beer?
+If this project was helpful to you, you can buy me a beer if you feel like doing so. 🙂
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YM7E34E2LT4D8)
