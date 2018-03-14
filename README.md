@@ -36,7 +36,7 @@ Pipey
 Pipey:process()
 ```
 
-You can also take a look at [example.lua](https://github.com/molnarmark/Pipey/blob/master/example.lua) file.
+You can also take a look at the [example.lua](https://github.com/molnarmark/Pipey/blob/master/example.lua) file.
 
 ## License
 `Pipey` comes licensed under the [MIT License](https://github.com/molnarmark/Pipey/blob/master/LICENSE).
