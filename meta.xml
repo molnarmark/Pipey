@@ -1,0 +1,6 @@
+<meta>
+  <script src="pipey.lua" type="client"/>
+  <script src="example.lua" type="client"/>
+
+  <export function="getPipey" type="client"/>
+</meta>
